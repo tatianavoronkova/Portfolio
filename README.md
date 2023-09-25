@@ -2,8 +2,10 @@
 
 **I’m junior data analyst.** Previously, I have worked at the largest technology companies (Jabil LLC, Aquarius) in supply chain management department. With 6 years of experience behind I have mastered the skills of classical demand forecasting methods based on statistical models and BI systems usage. I understand how an analyst thinks and what value is possible to bring to a business.
 
-Now I am learning data analytics and applying knowledge on practice. I program in **Python** (pandas, numpy, matplotlib, seaborn) using **Jupyter Notebook**. I can visualize data and create dashboards on **Tableau** and **PowerBI**, write complex queries in **PostgreSQL** and know the basic concepts of probability theory and mathematical statistics.	
-  
+Now I am learning data analytics and applying knowledge on practice. I program in **Python** (pandas, numpy, matplotlib, seaborn) using **Jupyter Notebook**. I can visualize data and create dashboards on **Tableau** and **PowerBI**, write complex queries in **PostgreSQL** and know the basic concepts of probability theory and mathematical statistics.	 
+
+> My Personal website [tatyanavoronkova.github.io](https://tatyanavoronkova.github.io/)
+
 # MY PROJECTS
 
 ## [Logistics Dashboard](https://github.com/tatyanavoronkova/Portfolio/tree/main/Dashboard)
@@ -19,3 +21,15 @@ Define the main factors and parameters influencing on apartments price in Moscow
 **Я - начинающий аналитик данных.** В прошлом работала в крупных технологических компаниях в сфере управления цепями поставок (Jabil, Аквариус). За 6 лет работы овладела классическими методами прогнозирования спроса на основании статистических моделей, а также навыками работы в BI-системах. Понимаю, как мыслит аналитик и какую ценность приносит бизнесу. 
 
 В настоящее время обучаюсь аналитике данных и практикуюсь самостоятельно: пишу на **Python** (библиотеки pandas, numpy, matplotlib, seaborn) и оформляю результаты в **Jupyter Notebook**. Применяю **Tableau** и **PowerBI** для визуализации данных и создания дашбордов. Умею составлять сложные запросы в **PostgreSQL**. Знаю основные понятия теории вероятностей и математической статистики.
+
+> Мой личный сайт [tatyanavoronkova.github.io](https://tatyanavoronkova.github.io/ru/)
+
+# МОИ ПРОЕКТЫ
+
+## [Дашборд для логистики](https://github.com/tatyanavoronkova/Portfolio/tree/main/Dashboard)
+Расчет ключевых показателей эффективности для отдела логистики, визуализация тренда и отклонений от ожидаемых значений. 
+Применение временной шкалы и фильтров для быстрого изменения параметров.
+
+## [Исследовательский анализ данных рынка недвижимости 2018-2021](https://github.com/tatyanavoronkova/Portfolio/tree/main/EDA)
+Используя данные объявлений из сервисов о продаже квартир за период с 2018 по 2021 год, выявить основные параметры и факторы, влияющие на цену квартир в Московской области.
+
