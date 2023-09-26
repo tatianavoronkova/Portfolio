@@ -13,8 +13,11 @@ The main KPIs calculation for logistics department, visualization the performanc
 Interactive timeline and filters settings for quick paramenters changes.
 
 ## [Russia Real Estate EDA](https://github.com/tatyanavoronkova/Portfolio/tree/main/EDA)
-Define the main factors and parameters influencing on apartments price in Moscow region based on data from service announcement for the period 2018-2021.
+Define the main factors and parameters influencing on apartments price in Moscow region based on data from service announcement for the period 2018-2021.  
 
+...
+
+       
 ------
 # О СЕБЕ
 
@@ -33,3 +36,4 @@ Define the main factors and parameters influencing on apartments price in Moscow
 ## [Исследовательский анализ данных рынка недвижимости 2018-2021](https://github.com/tatyanavoronkova/Portfolio/tree/main/EDA)
 Используя данные объявлений из сервисов о продаже квартир за период с 2018 по 2021 год, выявить основные параметры и факторы, влияющие на цену квартир в Московской области.
 
+...
